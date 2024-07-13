@@ -16,3 +16,9 @@
 		}
 	}
 </script>
+
+<style>
+	.home{
+		background: red;
+	}
+</style>

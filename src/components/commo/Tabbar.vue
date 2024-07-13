@@ -34,12 +34,13 @@
   z-index:999;
   width:100%;
   height:75px;
-  background-color:#fff;
+  background-color: aliceblue;
 }
 .tabbar ul{
   display: flex;
 }
 .tabbar ul li{
+	flex: 1;
   display: flex;
   flex-direction:column;
 }
